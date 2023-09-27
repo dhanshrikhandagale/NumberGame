@@ -9,7 +9,7 @@ public class GuessTheNumberGame {
         Random random = new Random();
 
         int lowerBound = 1;  
-        int upperBound = 10;
+        int upperBound = 100;
         int numberOfRounds = 3;  
         int maxAttempts = 5;  
         int totalScore = 0;
